@@ -1,6 +1,6 @@
 [
-    {"date": "2005-03-26", "number": "", "tail": "", "from": "KLO", "to": "MNL", "status": "COMPLETED"},
-    {"date": "2005-03-24", "number": "", "tail": "", "from": "MNL", "to": "KLO", "status": "COMPLETED"},
+    {"date": "2005-03-26", "number": "PR326", "tail": "", "from": "KLO", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2005-03-24", "number": "PR321", "tail": "", "from": "MNL", "to": "KLO", "status": "COMPLETED"},
     {"date": "2002-00-00", "number": "", "tail": "", "from": "SIN", "to": "MNL", "status": "COMPLETED"},
     {"date": "2002-00-00", "number": "", "tail": "", "from": "MNL", "to": "SIN", "status": "COMPLETED"}
 ]
